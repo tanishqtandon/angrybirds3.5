@@ -13,7 +13,7 @@ class SlingShot{
     }
 
     fly(){
-        this.sling.body=null;
+        this.sling.bodyA=null;
     };
     display(){
 
